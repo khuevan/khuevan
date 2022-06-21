@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm khuevan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F017&center=true&vCenter=true&lines=meow+meow...)](https://git.io/typing-svg)
+<h1 align="center" >[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F017&center=true&vCenter=true&lines=meow+meow...)](https://git.io/typing-svg)</h1>
 
 
 
