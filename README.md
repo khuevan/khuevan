@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F017&center=true&vCenter=true&lines=meow+meow...)](https://git.io/typing-svg)
 <!--
 **khuevan/khuevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
