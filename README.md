@@ -4,5 +4,6 @@
 
 - 🌱 I'm Dang Khue Van Nguyen (Nguyen Dang Khue Van in Vietnamese)!
 - 🏫 I'm a college student at [VKU - Vietnam-Korea University of Infomation and Communication Technology](http://vku.udn.vn) 
-- I'm lazy..
+- 👨‍💻 I’m currently learning Python
+- 🌕 ...
 
