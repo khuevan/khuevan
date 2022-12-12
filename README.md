@@ -6,4 +6,4 @@
 - 🏫 I'm a college student at [VKU - Vietnam-Korea University of Infomation and Communication Technology](http://vku.udn.vn) 
 - 👨‍💻 I’m currently learning Python
 - 🌕 ...
-
+<img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" alt="https://gitlab.com/khuevan">
