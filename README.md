@@ -6,3 +6,16 @@
 <!-- - 🏫 I'm a college student at [VKU - Vietnam-Korea University of Infomation and Communication Technology](http://vku.udn.vn)  -->
 - 👨‍💻 I’m currently learning Python
 - 🌕 ...
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
